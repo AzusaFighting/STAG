@@ -1,5 +1,7 @@
 # Quantizing Text-attributed Graphs for Semantic-Structural Integration
 
+[中文文档](README_zh.md)
+
 > **Official Implementation** of "Quantizing Text-attributed Graphs for Semantic-Structural Integration" accepted at **KDD'25**. [[arXiv](https://arxiv.org/abs/2507.19526)]
 
 **Authors:** Jianyuan Bo¹, Hao Wu², Yuan Fang¹  
@@ -45,8 +47,8 @@ STAG/
 │   │   └── cora_text.pkl
 │   ├── citeseer/
 │   │   ├── citeseer_graph.pth
-│   │   ├── cora_metadata.pth
-│   │   └── cora_text.pkl
+│   │   ├── citeseer_metadata.pth
+│   │   └── citeseer_text.pkl
 │   └── cora_full/
 │       ├── cora_full_graph.pth
 │       ├── cora_full_metadata.pth
