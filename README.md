@@ -47,8 +47,8 @@ STAG/
 │   │   └── cora_text.pkl
 │   ├── citeseer/
 │   │   ├── citeseer_graph.pth
-│   │   ├── cora_metadata.pth
-│   │   └── cora_text.pkl
+│   │   ├── citeseer_metadata.pth
+│   │   └── citeseer_text.pkl
 │   └── cora_full/
 │       ├── cora_full_graph.pth
 │       ├── cora_full_metadata.pth
